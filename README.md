@@ -40,3 +40,16 @@ OpenCV is widely used in different fields, such as robotics, autonomous vehicles
 
 # Section #4 - Capstone
 ⌨️ Deep Computer Vision: The Simpsons
+
+
+
+
+# Detecting Objects in Images Using the YOLOv8 Neural Network
+
+YOLO (You Only Look Once) is a convolutional neural network that is widely used for real-time object detection. 
+
+YOLO detects objects by dividing the input image into a grid and predicting the probability of object presence and its bounding box coordinates for each grid cell. This architecture is much faster than traditional object detection models that require multiple passes through an image.
+
+YOLO also has a high accuracy rate, which makes it popular among researchers and developers.
+
+The newest release of YOLO, YOLOv8, was developed by Alexey Bochkovskiy and his team. YOLOv8 is an advanced version of YOLO that has improved the detection accuracy and is optimized for a wide range of hardware platforms. YOLOv8 has a more powerful feature extractor network that captures finer details and improves the detection of small objects. The architecture also incorporates a multi-scale prediction mechanism that helps in detecting objects at different scales. YOLOv8 has set new standards in object detection accuracy and speed and is expected to be widely adopted in various applications, including self-driving cars, surveillance, and robotics.
